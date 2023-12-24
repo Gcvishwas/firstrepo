@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("This is the first file created by me while learning about github through coursera.");
+return 0;
+}
